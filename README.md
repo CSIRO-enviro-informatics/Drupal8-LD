@@ -9,6 +9,7 @@ Core Drupal Modules
 - RESTful Web Services
 - Serialization
 - HTTP Basic Authentication
+- RDF
 
 Other Modules
 - REST UI from https://www.drupal.org/project/restui
