@@ -14,6 +14,8 @@ Other Modules
 - REST UI from https://www.drupal.org/project/restui
 - JSON-LD from https://github.com/Islandora-CLAW/jsonld
 
+Starting with a freash Drupal 8 install.
+
 Install these first then copy the person folder into drupal/modules and install the person module.
 
 Go to the configuration pages and under web services open the REST configuration
