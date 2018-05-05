@@ -1,0 +1,14 @@
+# node.type.person.yml
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - person # This is the name of the module we're using for this example
+name: 'person'
+type: person
+description: 'Content type that can be used to provide additional information on a <em>person</em>'
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: true

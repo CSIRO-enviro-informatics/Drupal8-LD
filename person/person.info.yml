@@ -1,0 +1,5 @@
+name: person
+type: module
+description: 'Module to create a RDF linked Person Content Type'
+package: custom
+core: 8.x
